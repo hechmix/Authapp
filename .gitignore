@@ -1,0 +1,18 @@
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+__pycache__
+
+
+venv
+app.db
