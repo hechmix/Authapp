@@ -1,0 +1,1 @@
+from authapp import app
