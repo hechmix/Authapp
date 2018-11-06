@@ -13,6 +13,8 @@ var
 sdist
 __pycache__
 
+.idea
 
 venv
+logs
 app.db
